@@ -4,7 +4,9 @@
 # Problem
 When working with business projects with numerous use cases, each containing multiple business rules for validation, many developers choose to implementing these rules using nested if/else structures with try-catch blocks in between, produsing cluttered nested if/elses arrows everywhere. 
 This approach results in code that is hard to read, understand, maintain, and developers are less likely to prefer working on such projects. 
+
 ![image](https://github.com/aaltihami/use-cases-business-rules-engine/assets/28863514/81d0aa92-60e3-478e-822f-bb8703f4e1a3)
+
 
 # Propossed Solustion  
 This project offers a minimal business rules engine to organize business use cases and their related rules execution, ensuring readability and maintainability.
