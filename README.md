@@ -8,7 +8,7 @@ This approach results in code that is hard to read, understand, maintain, and de
 ![image](https://github.com/aaltihami/use-cases-business-rules-engine/assets/28863514/81d0aa92-60e3-478e-822f-bb8703f4e1a3)
 
 
-# Propossed Solustion  
+# Proposed Solution  
 This project offers a minimal business rules engine to organize business use cases and their related rules execution, ensuring readability and maintainability.
 You will be able to : 
   - Create a usecase object per a business usecase.
